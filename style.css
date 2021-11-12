@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #bfbaba;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.btn {
+    border-radius: 0px;
+}
+
+.btn:hover {
+    background-color: lightgreen;
+    color: black;
+}
